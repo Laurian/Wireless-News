@@ -10,4 +10,4 @@ if (
 	) {
 	// notify on match
 	self.postMessage("match");
-}
+} else self.postMessage("no match");

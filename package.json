@@ -2,7 +2,7 @@
     "name": "wirelessnews", 
     "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
     "author": "Laurian Gridinoc", 
-    "version": "0.2", 
+    "version": "0.3", 
     "fullName": "Wireless News", 
     "id": "jid1-cydB3IaRYPjAQw", 
     "description": "Removes wire service content from Chicago Tribune's homepage"
